@@ -10,7 +10,7 @@ This project is using for Git Basic command practice
 4. Update code to make sure practice-1-run.html is green (pass test)
 5. Commit code to local repository
 6. Push code repository to remove Github repository (Need create a Github repository)
-7. Update Readme on Github and commit.
+7. Update Readme on Github and commit. (done)
 8. Synchronize latest code on local.
 
 # Requirements
